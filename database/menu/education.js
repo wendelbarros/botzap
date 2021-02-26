@@ -4,7 +4,7 @@ const education = (prefix, botName, ownerName) => {
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: ${@tio sleep}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
