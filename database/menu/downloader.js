@@ -4,7 +4,8 @@ const downloader = (prefix, botName, ownerName) => {
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_NAME
+  ❏ Creator: @tio sleep
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
@@ -18,5 +19,10 @@ const downloader = (prefix, botName, ownerName) => {
   ├─ ❏ ${prefix}ytmp3
   ├─ ❏ ${prefix}ytmp4
   └─ ❏ ${prefix}tiktok`
+  ├─ ❏ ${prefix}ytmp3
+  ├─ ❏ ${prefix}twitter
+  ├─ ❏ ${prefix}discord
+  
+
 }
 exports.downloader = downloader
