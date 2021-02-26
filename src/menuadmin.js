@@ -4,8 +4,8 @@ const menuadmin = (prefix, pushname) => {
  
  ◪ *COMANDO DOS ADMINS*
  │
- ├─ ❏ ${prefix}opengc
- ├─ ❏ ${prefix}closegc
+ ├─ ❏ ${prefix}abrirgp
+ ├─ ❏ ${prefix}fechargp
  ├─ ❏ ${prefix}promote
  ├─ ❏ ${prefix}demote
  ├─ ❏ ${prefix}tagall
@@ -18,7 +18,7 @@ const menuadmin = (prefix, pushname) => {
  ├─ ❏ ${prefix}listadmins
  ├─ ❏ ${prefix}linkgroup
  ├─ ❏ ${prefix}leave
- ├─ ❏ ${prefix}welcome
+ ├─ ❏ ${prefix}bemvindo
  ├─ ❏ ${prefix}nsfw
  ├─ ❏ ${prefix}leveling
  ├─ ❏ ${prefix}level
